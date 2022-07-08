@@ -1,2 +1,3 @@
 # jjg_cell_project
-OJH emfdhk
+JJH 1502 & 1508 combined project
+
