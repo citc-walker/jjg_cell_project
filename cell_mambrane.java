@@ -86,7 +86,7 @@ public static class ReadAndWrite { //read와 writer 매소드를 출력하는 �
 		cell_mambrane.main(null);
 
 	}
-	public static void prints(String mas) { //우리 모두가 알고있는 바로 그 구문
+	public static void prints(String mas) { //우리 모두가 알고있는 바로 그 구문.
 		char[] ca = mas.toCharArray();
 		 for(int i = 0; i < ca.length; i++) {
 			 try {
